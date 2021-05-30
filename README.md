@@ -30,4 +30,4 @@ I am happy to say that the game uses JavaScript classes a new feature that was a
 
 ***Player Wins***
 
-<img src="https://raw.githubusercontent.com/LWRGitHub/connect-four/main/img/game-play.png" alt="this is a screen shot of what it looks like when a player wins the game. Words on screen say player one wins there is a diagonal chain of red checkers indicating the winner.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/connect-four/main/img/player-1-wins.png" alt="this is a screen shot of what it looks like when a player wins the game. Words on screen say player one wins there is a diagonal chain of red checkers indicating the winner.">
