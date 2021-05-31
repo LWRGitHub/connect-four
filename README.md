@@ -8,7 +8,7 @@ I am happy to say that the game uses JavaScript classes a new feature that was a
 - DOM
 - Google Fonts
 - jQuery
-
+- [GitHub Pages](https://lwrgithub.github.io/connect-four/)
 
 
 ## Clone & Setup/Run
