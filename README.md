@@ -1,6 +1,9 @@
 # Connect Four
 I am happy to say that the game uses JavaScript classes a new feature that was added in 2015. The game is called "Connect Four" also known as "Four in a Row." You may just be one of these people that have played the game in real life, I hope you like it! TAKE NOTE: This game has some beautiful comments in the JS files.
 
+***Game Play Instructions***
+Use a desktop or laptop computer not a phone. Use the mouse to click "Start." use the left, right & down arrows to place token.
+
 
 ## Tech Used
 - JS
